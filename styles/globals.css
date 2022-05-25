@@ -4,6 +4,6 @@
 @tailwind utilities;
 @layer base {
     body {
-        @apply bg-[#06202a] text-gray-300
+        @apply bg-cyan-900 text-gray-300
     }
 }
